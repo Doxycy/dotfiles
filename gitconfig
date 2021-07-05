@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = morgan.godard@outlook.fr
+	name = Morgan Godard
